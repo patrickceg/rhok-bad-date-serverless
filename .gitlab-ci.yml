@@ -1,0 +1,2 @@
+alwayspass:
+  script: "echo This always passes"
